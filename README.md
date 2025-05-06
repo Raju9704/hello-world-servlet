@@ -30,6 +30,4 @@ webhook test
 06/07/2021 ---> Today is Tuesday
 10/21/2021
 31/10/2022 ---> Today is Monday and time is 9.10am
-06/05/2025 ---> Today is very beautiful day.
-1/11/2022
-07-12-2022
+06/05/2025 ---> Today is very beautiful day and good day.
